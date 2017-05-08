@@ -1,0 +1,14 @@
+c:\users\harshit\documents\visual studio 2010\Projects\randommusicapp\randommusicapp\bin\Debug\randommusicapp.exe
+c:\users\harshit\documents\visual studio 2010\Projects\randommusicapp\randommusicapp\bin\Debug\randommusicapp.pdb
+c:\users\harshit\documents\visual studio 2010\Projects\randommusicapp\randommusicapp\bin\Debug\randommusicapp.xml
+c:\users\harshit\documents\visual studio 2010\Projects\randommusicapp\randommusicapp\bin\Debug\Interop.WMPLib.dll
+c:\users\harshit\documents\visual studio 2010\Projects\randommusicapp\randommusicapp\bin\Debug\AxInterop.WMPLib.dll
+c:\users\harshit\documents\visual studio 2010\Projects\randommusicapp\randommusicapp\obj\x86\Debug\Interop.WMPLib.dll
+c:\users\harshit\documents\visual studio 2010\Projects\randommusicapp\randommusicapp\obj\x86\Debug\AxInterop.WMPLib.dll
+c:\users\harshit\documents\visual studio 2010\Projects\randommusicapp\randommusicapp\obj\x86\Debug\randommusicapp.vbproj.ResolveComReference.cache
+c:\users\harshit\documents\visual studio 2010\Projects\randommusicapp\randommusicapp\obj\x86\Debug\randommusicapp.Form1.resources
+c:\users\harshit\documents\visual studio 2010\Projects\randommusicapp\randommusicapp\obj\x86\Debug\randommusicapp.Resources.resources
+c:\users\harshit\documents\visual studio 2010\Projects\randommusicapp\randommusicapp\obj\x86\Debug\randommusicapp.vbproj.GenerateResource.Cache
+c:\users\harshit\documents\visual studio 2010\Projects\randommusicapp\randommusicapp\obj\x86\Debug\randommusicapp.exe
+c:\users\harshit\documents\visual studio 2010\Projects\randommusicapp\randommusicapp\obj\x86\Debug\randommusicapp.xml
+c:\users\harshit\documents\visual studio 2010\Projects\randommusicapp\randommusicapp\obj\x86\Debug\randommusicapp.pdb
